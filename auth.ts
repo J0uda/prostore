@@ -30,6 +30,7 @@ export const config = {
             email: credentials.email as string,
           },
         });
+        console.log('this is a user', user);
 
         // check if user exists and if the password matches
         if (user && user.password) {
