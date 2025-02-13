@@ -29,7 +29,6 @@ ProStore is a full-featured eCommerce website built with **Next.js**, **TypeScri
 1. Clone the repository:
    ```bash
    git clone https://github.com/J0uda/prostore.git
-
 2. Navigate into the project directory:
    ```bash
    cd prostore
